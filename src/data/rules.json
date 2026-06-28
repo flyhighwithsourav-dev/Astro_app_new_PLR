@@ -1,0 +1,352 @@
+[
+  {
+    "id": "sun_aries",
+    "category": "personality",
+    "condition": { "type": "planet_sign", "planet": "Sun", "sign": "Aries" },
+    "title": "Sun in Aries (Exalted)",
+    "prediction": "The Sun is highly powerful in Aries. You possess natural leadership capabilities, courage, and a pioneering spirit. You are self-reliant, dynamic, and have a strong drive to succeed, though you must guard against impulsiveness and impatience."
+  },
+  {
+    "id": "sun_libra",
+    "category": "personality",
+    "condition": { "type": "planet_sign", "planet": "Sun", "sign": "Libra" },
+    "title": "Sun in Libra (Debilitated)",
+    "prediction": "With the Sun in Libra, you seek harmony, balance, and partnership. You are cooperative and diplomatic, but you may sometimes struggle with self-confidence, indecision, or compromising your own needs to please others."
+  },
+  {
+    "id": "sun_cancer",
+    "category": "personality",
+    "condition": { "type": "planet_sign", "planet": "Sun", "sign": "Cancer" },
+    "title": "Sun in Cancer",
+    "prediction": "You are deeply intuitive, emotional, and protective of your loved ones. Family and home are of central importance to you. You lead with empathy and care, though you may occasionally be sensitive to criticism."
+  },
+  {
+    "id": "sun_leo",
+    "category": "personality",
+    "condition": { "type": "planet_sign", "planet": "Sun", "sign": "Leo" },
+    "title": "Sun in Leo (Own Sign)",
+    "prediction": "The Sun rules Leo, making this placement radiant and expressive. You are creative, proud, generous, and enjoy being the center of attention. You possess a strong sense of personal authority and a warm, loyal heart."
+  },
+  {
+    "id": "moon_taurus",
+    "category": "personality",
+    "condition": { "type": "planet_sign", "planet": "Moon", "sign": "Taurus" },
+    "title": "Moon in Taurus (Exalted)",
+    "prediction": "The Moon is exalted in Taurus, indicating emotional stability and peace of mind. You seek security, comfort, and sensory pleasures. You are reliable, calm in crises, and possess deep artistic or aesthetic sensibilities."
+  },
+  {
+    "id": "moon_scorpio",
+    "category": "personality",
+    "condition": { "type": "planet_sign", "planet": "Moon", "sign": "Scorpio" },
+    "title": "Moon in Scorpio (Debilitated)",
+    "prediction": "The Moon in Scorpio indicates intense, deep, and secretive emotions. You have powerful psychological insights and intuition. You experience life deeply, but you must work on letting go of emotional grudges and fear of vulnerability."
+  },
+  {
+    "id": "jupiter_house_1",
+    "category": "personality",
+    "condition": { "type": "planet_house", "planet": "Jupiter", "house": 1 },
+    "title": "Jupiter in the 1st House",
+    "prediction": "Jupiter in the Ascendant brings optimism, wisdom, and benevolence. You have a cheerful disposition, a strong sense of ethics, and an expansive personality. You are seen as a teacher or guide by others and are blessed with good fortune."
+  },
+  {
+    "id": "mars_house_1",
+    "category": "personality",
+    "condition": { "type": "planet_house", "planet": "Mars", "house": 1 },
+    "title": "Mars in the 1st House",
+    "prediction": "Mars in the first house makes you energetic, assertiveness-driven, and highly active. You possess a strong physical vitality and a competitive spirit. Watch out for impatience, headstrong behavior, or a tendency to get into conflicts easily."
+  },
+  {
+    "id": "lord_1_house_1",
+    "category": "personality",
+    "condition": { "type": "lord_house", "house": 1, "targetHouse": 1 },
+    "title": "Lord of 1st House in 1st House",
+    "prediction": "With your chart ruler placed in your first house, you possess strong self-reliance, vitality, and a clear sense of identity. You are highly independent, self-motivated, and capable of overcoming obstacles through your own direct action."
+  },
+  {
+    "id": "ketu_house_12",
+    "category": "personality",
+    "condition": { "type": "planet_house", "planet": "Ketu", "house": 12 },
+    "title": "Ketu in the 12th House",
+    "prediction": "This is considered a highly spiritual placement for Ketu. It represents a strong potential for spiritual liberation (Moksha), meditation, and deep interest in the occult or metaphysical dimensions. You enjoy times of solitude and introspection."
+  },
+  {
+    "id": "lord_10_house_1",
+    "category": "career",
+    "condition": { "type": "lord_house", "house": 10, "targetHouse": 1 },
+    "title": "Lord of 10th House in 1st House",
+    "prediction": "Your career and public reputation are central to your identity. You are highly self-motivated and likely to establish an independent path, possibly through entrepreneurship. You take pride in your work, and your professional success depends heavily on your own initiative."
+  },
+  {
+    "id": "lord_10_house_2",
+    "category": "career",
+    "condition": { "type": "lord_house", "house": 10, "targetHouse": 2 },
+    "title": "Lord of 10th House in 2nd House",
+    "prediction": "Your career is highly focused on financial gains, assets, and resources. You may excel in fields like banking, investments, family business, or public speaking. Your professional activities are a major source of accumulated wealth."
+  },
+  {
+    "id": "lord_10_house_3",
+    "category": "career",
+    "condition": { "type": "lord_house", "house": 10, "targetHouse": 3 },
+    "title": "Lord of 10th House in 3rd House",
+    "prediction": "Your career involves communication, writing, media, travel, or manual skills. You may work in journalism, marketing, transit, or sales. Your professional success is driven by your courage, networking, and creative expression."
+  },
+  {
+    "id": "lord_10_house_4",
+    "category": "career",
+    "condition": { "type": "lord_house", "house": 10, "targetHouse": 4 },
+    "title": "Lord of 10th House in 4th House",
+    "prediction": "Your career may connect to real estate, agriculture, vehicles, home-based services, or working in your place of birth. You seek comfort and emotional connection in your work, and your mother or family line may influence your career path."
+  },
+  {
+    "id": "lord_10_house_5",
+    "category": "career",
+    "condition": { "type": "lord_house", "house": 10, "targetHouse": 5 },
+    "title": "Lord of 10th House in 5th House",
+    "prediction": "Your career is linked to creativity, education, speculation, investments, or children. You are passionate about your work and may excel as a teacher, consultant, creative artist, or financial manager. You enjoy work that allows intellectual expression."
+  },
+  {
+    "id": "lord_10_house_6",
+    "category": "career",
+    "condition": { "type": "lord_house", "house": 10, "targetHouse": 6 },
+    "title": "Lord of 10th House in 6th House",
+    "prediction": "Your career involves service, overcoming obstacles, healing, or legal affairs. You may excel in healthcare, social work, law enforcement, or auditing. You are diligent, detail-oriented, and gain respect by resolving conflicts and helping others."
+  },
+  {
+    "id": "lord_10_house_7",
+    "category": "career",
+    "condition": { "type": "lord_house", "house": 10, "targetHouse": 7 },
+    "title": "Lord of 10th House in 7th House",
+    "prediction": "Your career involves public relations, partnerships, trade, or foreign dealings. You work well in team environments and business associations. You may travel extensively for work, and your partner or spouse may play a role in your professional advancement."
+  },
+  {
+    "id": "lord_10_house_8",
+    "category": "career",
+    "condition": { "type": "lord_house", "house": 10, "targetHouse": 8 },
+    "title": "Lord of 10th House in 8th House",
+    "prediction": "Your career is connected to research, investigation, secret knowledge, or managing others' resources. You may work in finance, tax audit, psychology, or geology. You experience transformations in your professional life but possess deep power in crisis management."
+  },
+  {
+    "id": "lord_10_house_9",
+    "category": "career",
+    "condition": { "type": "lord_house", "house": 10, "targetHouse": 9 },
+    "title": "Lord of 10th House in 9th House",
+    "prediction": "Your career is aligned with higher education, law, philosophy, publishing, or long-distance travel. You may work as a professor, spiritual guide, publisher, or international consultant. Good fortune and guidance from mentors support your professional path."
+  },
+  {
+    "id": "lord_10_house_10",
+    "category": "career",
+    "condition": { "type": "lord_house", "house": 10, "targetHouse": 10 },
+    "title": "Lord of 10th House in 10th House (Strong Placement)",
+    "prediction": "With your career lord in its own house, you are blessed with high professional success, ambition, and authority. You are natural leader, highly respected in your field, and likely to achieve fame and high public standing through your work."
+  },
+  {
+    "id": "lord_10_house_11",
+    "category": "career",
+    "condition": { "type": "lord_house", "house": 10, "targetHouse": 11 },
+    "title": "Lord of 10th House in 11th House",
+    "prediction": "This is an excellent placement for financial gains and the fulfillment of ambitions. You will profit immensely from your career. You build influential social networks, and your work may involve large organizations, associations, or community-based goals."
+  },
+  {
+    "id": "lord_10_house_12",
+    "category": "career",
+    "condition": { "type": "lord_house", "house": 10, "targetHouse": 12 },
+    "title": "Lord of 10th House in 12th House",
+    "prediction": "Your career may connect you to foreign lands, hospitals, isolation setups, or spiritual organizations. You may work behind the scenes, in research labs, import-export, or charities. You find success in environments away from your birthplace."
+  },
+  {
+    "id": "lord_7_house_1",
+    "category": "relationships",
+    "condition": { "type": "lord_house", "house": 7, "targetHouse": 1 },
+    "title": "Lord of 7th House in 1st House",
+    "prediction": "Your partner will be deeply devoted to you. Partnerships shape your identity. Your spouse will likely be attractive, well-intentioned, and from a respectable background. Relationships are key to your self-development."
+  },
+  {
+    "id": "lord_7_house_2",
+    "category": "relationships",
+    "condition": { "type": "lord_house", "house": 7, "targetHouse": 2 },
+    "title": "Lord of 7th House in 2nd House",
+    "prediction": "Your marriage or business partnerships will bring financial stability and gains. Your partner may help you accumulate assets or family wealth, and they will value family life, speech, and shared resources."
+  },
+  {
+    "id": "lord_7_house_3",
+    "category": "relationships",
+    "condition": { "type": "lord_house", "house": 7, "targetHouse": 3 },
+    "title": "Lord of 7th House in 3rd House",
+    "prediction": "Your partner is likely to be highly communicative, expressive, and active. You share similar interests in travel, writing, or media. Good cooperation and shared effort will strengthen your relationship."
+  },
+  {
+    "id": "lord_7_house_4",
+    "category": "relationships",
+    "condition": { "type": "lord_house", "house": 7, "targetHouse": 4 },
+    "title": "Lord of 7th House in 4th House",
+    "prediction": "Your partner brings domestic happiness, peace, and comfort to your life. They will be highly supportive of your home, properties, and emotional well-being, leading to a stable and warm family atmosphere."
+  },
+  {
+    "id": "lord_7_house_5",
+    "category": "relationships",
+    "condition": { "type": "lord_house", "house": 7, "targetHouse": 5 },
+    "title": "Lord of 7th House in 5th House",
+    "prediction": "This is a classic placement for a romantic, love-filled marriage. Your partner is creative, intelligent, and highly affectionate. You will share deep mutual respect, creative goals, and joy through children."
+  },
+  {
+    "id": "lord_7_house_6",
+    "category": "relationships",
+    "condition": { "type": "lord_house", "house": 7, "targetHouse": 6 },
+    "title": "Lord of 7th House in 6th House",
+    "prediction": "Your partner may work in service, healthcare, auditing, or legal services. You must guard against minor arguments, misunderstandings, or health concerns affecting the partner. Patience and open communication are vital."
+  },
+  {
+    "id": "lord_7_house_7",
+    "category": "relationships",
+    "condition": { "type": "lord_house", "house": 7, "targetHouse": 7 },
+    "title": "Lord of 7th House in 7th House (Strong Placement)",
+    "prediction": "With the relationship lord in its own house, you are blessed with a highly stable, loyal, and balanced partnership. Your spouse is independent, respectable, and a source of strength, leading to successful marriage and business collaborations."
+  },
+  {
+    "id": "lord_7_house_8",
+    "category": "relationships",
+    "condition": { "type": "lord_house", "house": 7, "targetHouse": 8 },
+    "title": "Lord of 7th House in 8th House",
+    "prediction": "Your relationships bring deep emotional transformation. Your partner may bring inheritance, financial support, or interest in research and occult subjects. You must navigate vulnerability and trust to build strong bonds."
+  },
+  {
+    "id": "lord_7_house_9",
+    "category": "relationships",
+    "condition": { "type": "lord_house", "house": 7, "targetHouse": 9 },
+    "title": "Lord of 7th House in 9th House",
+    "prediction": "Your partner will be virtuous, philosophical, and a source of good fortune. Marriage brings luck, spiritual growth, and opportunities for long travel. Your partner will act as a counselor or guide in your life."
+  },
+  {
+    "id": "lord_7_house_10",
+    "category": "relationships",
+    "condition": { "type": "lord_house", "house": 7, "targetHouse": 10 },
+    "title": "Lord of 7th House in 10th House",
+    "prediction": "Your partner is ambitious and career-oriented. They will actively support your professional standing, public status, and authority. The partnership itself may be connected to your career path."
+  },
+  {
+    "id": "lord_7_house_11",
+    "category": "relationships",
+    "condition": { "type": "lord_house", "house": 7, "targetHouse": 11 },
+    "title": "Lord of 7th House in 11th House",
+    "prediction": "Your partner is a source of wealth, gains, and fulfillment of desires. You will share many common friends, enjoy a lively social life together, and receive support from associations and mentors through your marriage."
+  },
+  {
+    "id": "lord_7_house_12",
+    "category": "relationships",
+    "condition": { "type": "lord_house", "house": 7, "targetHouse": 12 },
+    "title": "Lord of 7th House in 12th House",
+    "prediction": "Your partner may be from a foreign land or have a spiritual, introverted nature. You may travel or reside abroad after marriage. The relationship encourages spiritual reflection, charity, and working behind the scenes."
+  },
+  {
+    "id": "lord_2_house_1",
+    "category": "wealth",
+    "condition": { "type": "lord_house", "house": 2, "targetHouse": 1 },
+    "title": "Lord of 2nd House in 1st House",
+    "prediction": "You have the capacity to build wealth through your own skills and personal efforts. You are highly self-reliant, financially independent from a young age, and your family background plays a key role in your growth."
+  },
+  {
+    "id": "lord_2_house_2",
+    "category": "wealth",
+    "condition": { "type": "lord_house", "house": 2, "targetHouse": 2 },
+    "title": "Lord of 2nd House in 2nd House",
+    "prediction": "With your wealth lord in its own house, you are blessed with excellent financial accumulation capacity, a persuasive voice, and solid family support. You manage your assets wisely and secure steady financial prosperity."
+  },
+  {
+    "id": "lord_2_house_3",
+    "category": "wealth",
+    "condition": { "type": "lord_house", "house": 2, "targetHouse": 3 },
+    "title": "Lord of 2nd House in 3rd House",
+    "prediction": "Your income is generated through communication, writing, local transit, manual arts, or courage. You are proactive in investments, and your siblings or close associates may collaborate with you in financial matters."
+  },
+  {
+    "id": "lord_2_house_4",
+    "category": "wealth",
+    "condition": { "type": "lord_house", "house": 2, "targetHouse": 4 },
+    "title": "Lord of 2nd House in 4th House",
+    "prediction": "You will accumulate wealth through land, buildings, real estate, vehicles, or maternal inheritance. Home comforts are a high priority, and your assets are mostly secured in tangible properties."
+  },
+  {
+    "id": "lord_2_house_5",
+    "category": "wealth",
+    "condition": { "type": "lord_house", "house": 2, "targetHouse": 5 },
+    "title": "Lord of 2nd House in 5th House",
+    "prediction": "Your wealth is linked to investments, intellect, creative ventures, consultation, or teaching. You have a natural instinct for financial planning and speculation, gaining profit through smart choices."
+  },
+  {
+    "id": "lord_2_house_6",
+    "category": "wealth",
+    "condition": { "type": "lord_house", "house": 2, "targetHouse": 6 },
+    "title": "Lord of 2nd House in 6th House",
+    "prediction": "You gain wealth through service sectors, resolving legal or medical issues, or day-to-day employment. Be cautious with loans and debts. You can accumulate assets steadily through careful daily budgeting."
+  },
+  {
+    "id": "lord_2_house_7",
+    "category": "wealth",
+    "condition": { "type": "lord_house", "house": 2, "targetHouse": 7 },
+    "title": "Lord of 2nd House in 7th House",
+    "prediction": "Your wealth is linked to trade, public relations, business partnerships, or your spouse. You gain financially through collaborations and dealings in the market, making team success your profit driver."
+  },
+  {
+    "id": "lord_2_house_8",
+    "category": "wealth",
+    "condition": { "type": "lord_house", "house": 2, "targetHouse": 8 },
+    "title": "Lord of 2nd House in 8th House",
+    "prediction": "You may gain wealth through inheritance, insurance claims, joint assets, or sudden windfalls. You are skilled at managing other people's resources. Guard against sudden fluctuations in earnings."
+  },
+  {
+    "id": "lord_2_house_9",
+    "category": "wealth",
+    "condition": { "type": "lord_house", "house": 2, "targetHouse": 9 },
+    "title": "Lord of 2nd House in 9th House",
+    "prediction": "This is a highly fortunate placement for prosperity. You gain wealth through higher learning, long travel, legal careers, or mentors. Financial support from father figures or ancestral lines brings success."
+  },
+  {
+    "id": "lord_2_house_10",
+    "category": "wealth",
+    "condition": { "type": "lord_house", "house": 2, "targetHouse": 10 },
+    "title": "Lord of 2nd House in 10th House",
+    "prediction": "Your main source of wealth is your primary career, status, and public reputation. You enjoy earnings from government sources, authority roles, or respected business positions. Your career is highly profitable."
+  },
+  {
+    "id": "lord_2_house_11",
+    "category": "wealth",
+    "condition": { "type": "lord_house", "house": 2, "targetHouse": 11 },
+    "title": "Lord of 2nd House in 11th House",
+    "prediction": "This is a premier combination for abundant wealth and profits. Your earnings will expand over time. You benefit from large organizations, mentors, and successful networks, easily fulfilling your desires."
+  },
+  {
+    "id": "lord_2_house_12",
+    "category": "wealth",
+    "condition": { "type": "lord_house", "house": 2, "targetHouse": 12 },
+    "title": "Lord of 2nd House in 12th House",
+    "prediction": "Your earnings may come from foreign lands, import-export, or institutions like hospitals or retreats. You must manage a tendency to spend heavily, prioritizing savings or investing in charitable causes."
+  },
+  {
+    "id": "venus_house_7",
+    "category": "relationships",
+    "condition": { "type": "planet_house", "planet": "Venus", "house": 7 },
+    "title": "Venus in the 7th House",
+    "prediction": "Venus in the house of partnership indicates a strong desire for love, harmony, and companionship. You seek a partner who is attractive, cultured, and balanced. This placement brings joy, cooperation, and beauty to marriage and business partnerships."
+  },
+  {
+    "id": "saturn_house_10",
+    "category": "career",
+    "condition": { "type": "planet_house", "planet": "Saturn", "house": 10 },
+    "title": "Saturn in the 10th House",
+    "prediction": "Saturn in the house of career indicates success achieved through hard work, discipline, and perseverance. You take your professional duties very seriously and may experience steady, slow rise to power. You excel in structured or highly responsible roles."
+  },
+  {
+    "id": "mercury_house_2",
+    "category": "wealth",
+    "condition": { "type": "planet_house", "planet": "Mercury", "house": 2 },
+    "title": "Mercury in the 2nd House",
+    "prediction": "Mercury in the house of finances indicates that your earning capacity is tied to communication, intelligence, writing, or trade. You are clever with financial planning and have good analytical skills regarding investments."
+  },
+  {
+    "id": "rahu_house_11",
+    "category": "wealth",
+    "condition": { "type": "planet_house", "planet": "Rahu", "house": 11 },
+    "title": "Rahu in the 11th House",
+    "prediction": "Rahu in the 11th house is a classical placement for worldly success and material achievements. You have unconventional goals and ambitions. You can gain wealth through foreign connections, technology, or large networks of people."
+  }
+]
